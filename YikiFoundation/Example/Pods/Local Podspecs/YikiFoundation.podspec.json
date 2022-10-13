@@ -1,0 +1,22 @@
+{
+  "name": "YikiFoundation",
+  "version": "0.1.0",
+  "summary": "A short description of YikiFoundation.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ilCode/YikiFoundation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ilCode": "metrointerface@live.com"
+  },
+  "source": {
+    "git": "https://github.com/ilCode/YikiFoundation.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "YikiFoundation/Classes/**/*"
+}

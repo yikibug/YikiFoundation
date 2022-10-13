@@ -1,0 +1,16 @@
+PODS:
+  - YikiFoundation (0.1.0)
+
+DEPENDENCIES:
+  - YikiFoundation (from `../`)
+
+EXTERNAL SOURCES:
+  YikiFoundation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YikiFoundation: d0fce9c6410d6ed18b00d2f208ada3bef3f0338b
+
+PODFILE CHECKSUM: 5262d55b41d8766c399a35e8a3d0e5feb9d91d0f
+
+COCOAPODS: 1.11.3

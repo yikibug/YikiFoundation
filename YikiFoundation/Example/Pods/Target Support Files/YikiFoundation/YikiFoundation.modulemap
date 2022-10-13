@@ -1,0 +1,6 @@
+framework module YikiFoundation {
+  umbrella header "YikiFoundation-umbrella.h"
+
+  export *
+  module * { export * }
+}
